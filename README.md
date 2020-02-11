@@ -1,6 +1,7 @@
 # -SERI-APP
 
 本模型基于SERI模型，目前先提供本项目的apk(Android)供大家学习使用，
+
 后续将陆续以博客等形式讲述实现过程，欢迎您Star & Fork
 
 # License
